@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">lab04_new</string>
+    <string name="btnSubmit">SUBMIT</string>
+    <string name="btnCancel">CANCEL</string>
+</resources>
